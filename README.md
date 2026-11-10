@@ -1,6 +1,6 @@
 # Привет, я Эмин 👋
 
-Студент. Занимаюсь образовательной аналитикой и ИИ в образовании, пишу на Python и SQL, интересуюсь математикой.
+Студент. Занимаюсь образовательной аналитикой и ИИ в образовании, пишу на Python, Go и SQL, интересуюсь математикой.
 
 ## Проекты
 
@@ -12,10 +12,11 @@
 | [**mathtutor**](https://github.com/EminChyldyrly/mathtutor) | Консольный тренажёр: генерирует задачи, проверяет ответы и объясняет типичные ошибки |
 | [**vacancy-analytics**](https://github.com/EminChyldyrly/vacancy-analytics) | Анализ рынка вакансий на Python и SQL: SQLite, оконные функции, CTE, представления |
 | [**excel-report-automation**](https://github.com/EminChyldyrly/excel-report-automation) | Из «грязной» выгрузки заказов (CSV/XLSX) собирает Excel-отчёт с формулами и графиками: чистка дат, чисел и дубликатов |
+| [**csvtidy**](https://github.com/EminChyldyrly/csvtidy) | Утилита на Go: чистит «грязные» CSV (кодировка, числа, даты, дубликаты) и считает сводки, без зависимостей |
 
 ## Стек
 
-Python · SQL (SQLite) · scikit-learn, pandas, NumPy · Excel (openpyxl) · основы C++ и Go
+Python · SQL (SQLite) · scikit-learn, pandas, NumPy · Excel (openpyxl) · Go (CLI-утилита), основы C++
 
 ## Что мне интересно
 
