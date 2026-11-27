@@ -1,11 +1,14 @@
-# Привет, я Эмин 👋
+# Эмин Чылдырлы · Python Backend Developer
 
-Студент. Занимаюсь образовательной аналитикой и ИИ в образовании, пишу на Python, Go и SQL, интересуюсь математикой.
+Разрабатываю REST API и инструменты обработки данных на Python. Учусь на прикладной информатике в ГУАП.
+
+**Основной проект** · [Taskboard API](https://github.com/EminChyldyrly/taskboard-api) демонстрирует аутентификацию JWT, разграничение доступа к задачам, миграции Alembic и интеграционные тесты HTTP-эндпоинтов.
 
 ## Проекты
 
 | Проект | О чём |
 |---|---|
+| [**taskboard-api**](https://github.com/EminChyldyrly/taskboard-api) | REST API трекера задач: FastAPI, PostgreSQL, JWT, роли автора и исполнителя, миграции Alembic, Docker Compose, тесты и CI |
 | [**edurisk**](https://github.com/EminChyldyrly/edurisk) | Дипломная работа: раннее выявление студентов группы риска по данным LMS: временные ряды, объяснимость, справедливость, интерфейс преподавателя |
 | [**mathgen**](https://github.com/EminChyldyrly/mathgen) | Генератор и проверка задач по математике, точная арифметика, PDF-листки с вариантами и ключом |
 | [**mathsteps**](https://github.com/EminChyldyrly/mathsteps) | Решатель задач по линейной алгебре, дискретной математике и аналитической геометрии с ходом решения |
@@ -13,7 +16,6 @@
 | [**vacancy-analytics**](https://github.com/EminChyldyrly/vacancy-analytics) | Анализ рынка вакансий на Python и SQL: SQLite, оконные функции, CTE, представления |
 | [**excel-report-automation**](https://github.com/EminChyldyrly/excel-report-automation) | Из «грязной» выгрузки заказов (CSV/XLSX) собирает Excel-отчёт с формулами и графиками: чистка дат, чисел и дубликатов |
 | [**csvtidy**](https://github.com/EminChyldyrly/csvtidy) | Утилита на Go: чистит «грязные» CSV (кодировка, числа, даты, дубликаты) и считает сводки, без зависимостей |
-| [**taskboard-api**](https://github.com/EminChyldyrly/taskboard-api) | REST API трекера задач: FastAPI, PostgreSQL, JWT, роли автора и исполнителя, миграции Alembic, Docker Compose, тесты и CI |
 
 ## Стек
 
@@ -25,4 +27,4 @@ Python · FastAPI · SQL (SQLite, PostgreSQL) · Docker · scikit-learn, pandas,
 
 ---
 
-*Hi, I'm Emin. A student working on educational analytics and AI in education, writing Python and SQL. The projects above come with Russian READMEs and English versions (README.en.md).*
+*Hi, I'm Emin. I build REST APIs and data processing tools with Python and SQL. The projects above come with Russian READMEs and English versions (README.en.md).*
